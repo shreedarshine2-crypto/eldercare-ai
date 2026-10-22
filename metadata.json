@@ -1,6 +1,0 @@
-{
-  "name": "ElderCare AI - Safety Intelligence",
-  "description": "Continuous telemetry and edge AI vision platform for elderly safety, real-time fall detection, live monitoring, and emergency response.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
